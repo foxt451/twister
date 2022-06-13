@@ -1,0 +1,182 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="A">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.4" y="16.9" font-size="18" font-family="Courier" font-weight="bold">A</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="B">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">B</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="C">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">C</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="COMMA">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="17.9" font-size="18" font-family="Courier" font-weight="bold">,</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="D">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">D</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.8 24.8" id="DOWN_ARROW">
+    <rect width="60.8" height="24.8" fill="#939393"></rect>
+    <rect width="59" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.3" y="16.9" font-size="18" font-family="Courier" font-weight="bold">Down</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="E">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">E</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="EIGHT">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">8</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="EQUAL">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="15.4" font-size="18" font-family="Courier" font-weight="bold">=</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="F">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">F</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="FIVE">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">5</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="FOUR">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="17.9" font-size="18" font-family="Courier" font-weight="bold">4</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="G">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.4" y="16.9" font-size="18" font-family="Courier" font-weight="bold">G</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="H">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">H</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="I">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">I</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="J">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.4" font-size="18" font-family="Courier" font-weight="bold">J</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="K">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">K</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="L">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">L</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.8 24.8" id="LEFT_ARROW">
+    <rect width="60.8" height="24.8" fill="#939393"></rect>
+    <rect width="59" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.3" y="17.4" font-size="18" font-family="Courier" font-weight="bold">Left</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="M">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.4" y="17.4" font-size="18" font-family="Courier" font-weight="bold">M</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="MINUS">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">-</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="N">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">N</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="NINE">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="17.4" font-size="18" font-family="Courier" font-weight="bold">9</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="O">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.4" font-size="18" font-family="Courier" font-weight="bold">O</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="ONE">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="17.9" font-size="18" font-family="Courier" font-weight="bold">1</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="P">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">P</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="PERIOD">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="18.9" font-size="18" font-family="Courier" font-weight="bold">.</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="Q">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="15.9" font-size="18" font-family="Courier" font-weight="bold">Q</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="QUOTE">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="13.9" font-size="18" font-family="Courier" font-weight="bold">&amp;quot;</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="R">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.4" y="16.4" font-size="18" font-family="Courier" font-weight="bold">R</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="S">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">S</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="SEVEN">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">7</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="SIX">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="17.4" font-size="18" font-family="Courier" font-weight="bold">6</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="SLASH">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="17.4" font-size="18" font-family="Courier" font-weight="bold">/</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="T">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">T</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="THREE">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="17.4" font-size="18" font-family="Courier" font-weight="bold">3</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="TWO">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="17.9" font-size="18" font-family="Courier" font-weight="bold">2</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="U">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">U</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.8 24.8" id="UP_ARROW">
+    <rect width="36.8" height="24.8" fill="#939393"></rect>
+    <rect width="35" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.3" y="14.9" font-size="18" font-family="Courier" font-weight="bold">Up</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="V">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.4" y="16.9" font-size="18" font-family="Courier" font-weight="bold">V</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="W">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.4" y="16.9" font-size="18" font-family="Courier" font-weight="bold">W</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="X">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">X</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="Y">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">Y</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="Z">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="16.9" font-size="18" font-family="Courier" font-weight="bold">Z</text>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.8 24.8" id="ZERO">
+    <rect width="24.8" height="24.8" fill="#939393"></rect>
+    <rect width="23" height="23" fill="#d8d8d8" stroke="#939393" stroke-width="0.5"></rect><text fill="#4d4d4d" x="6.9" y="17.9" font-size="18" font-family="Courier" font-weight="bold">0</text>
+  </symbol>
+</svg>

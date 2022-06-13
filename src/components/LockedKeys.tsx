@@ -1,12 +1,11 @@
 import React from "react";
+import KeyComponent from "./Key";
 
-const LockedKeys = ({ keys }: { keys: string[] }) => {
-    console.log(keys);
-    
+const LockedKeys = ({ keys }: { keys: Set<string> }) => {
   return (
     <div>
-      {keys.map((key) => (
-        <article key={key}>{key}</article>
+      {[...keys].map((key) => (
+        <KeyComponent key={key} keyElem={key} />
       ))}
     </div>
   );
