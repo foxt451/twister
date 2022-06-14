@@ -36,7 +36,6 @@ const keys: Map<string, KeyInfo> = new Map([
   ["KeyI", { icon: getIcon("I") }],
   ["KeyO", { icon: getIcon("O") }],
   ["KeyP", { icon: getIcon("P") }],
-  ["BracketLeft", { icon: getIcon("O") }],
   ["KeyA", { icon: getIcon("A") }],
   ["KeyS", { icon: getIcon("S") }],
   ["KeyD", { icon: getIcon("D") }],

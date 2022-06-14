@@ -3,10 +3,10 @@ import KeyComponent from "./Key";
 
 const LockedKeys = ({ keys }: { keys: Set<string> }) => {
   return (
-    <div>
-      {[...keys].map((key) => (
-        <KeyComponent key={key} keyElem={key} />
-      ))}
+    <div className="locked-keys">
+        {[...keys].map((key) => (
+          <KeyComponent key={key} keyElem={key} />
+        ))}
     </div>
   );
 };

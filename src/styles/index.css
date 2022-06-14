@@ -1,0 +1,178 @@
+@import "./Key.css";
+@import "./CurrentKey.css";
+
+body {
+    background-color: rgb(254, 240, 255);
+}
+
+.current-key,
+.locked-keys {
+    background-color: rgb(199, 182, 198);
+    border-style    : solid;
+    border-color    : rgb(199, 147, 199);
+    border-width    : 1rem 0;
+}
+
+.all-keys-container {
+    display           : grid;
+    grid-template-rows: 1fr 0.3fr 0.3fr minmax(12rem, auto);
+}
+
+.explanation {
+    font-size: 1rem;
+    color    : rgb(78, 22, 50);
+}
+
+.statistics {
+    display        : flex;
+    margin         : 1rem;
+    justify-content: center;
+}
+
+.statistics>* {
+    margin-left : 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.timer {
+    background-color: aliceblue;
+    border          : 0.25rem solid rgb(145, 145, 145);
+    border-radius   : 10px;
+    padding         : 0.5rem 2rem;
+    font-size       : 1.5rem;
+}
+
+.score {
+    background-color: aliceblue;
+    border          : 0.25rem solid rgb(145, 145, 145);
+    border-radius   : 10px;
+    padding         : 0.5rem 2rem;
+    font-size       : 1.5rem;
+}
+
+.message-outline {
+    background-color: aliceblue;
+    border          : 0.25rem solid rgb(145, 145, 145);
+    border-radius   : 10px;
+    padding         : 0.25rem 2rem;
+    display         : inline-block;
+}
+
+button {
+    background-color: #3d003a;
+    border          : none;
+    border-radius   : 5px;
+    color           : white;
+    padding         : 0.5rem 1rem;
+    text-align      : center;
+    text-decoration : none;
+    font-size       : 1rem;
+}
+
+button:hover {
+    filter: brightness(2);
+}
+
+button:active {
+    filter: brightness(0.5);
+}
+
+.info-popup-close,
+.info-popup-show {
+    margin       : 0 0.5rem;
+    border-radius: 50%;
+    width        : 2rem;
+    height       : 2rem;
+    padding      : 0;
+}
+
+.info-popup-show {
+    background-color: #ffbefc;
+    color           : rgb(59, 59, 59);
+}
+
+.info-popup-show:hover {
+    background-color: #ff92fa;
+    filter          : brightness(1);
+}
+
+form {
+    display       : flex;
+    flex-direction: column;
+    align-items   : center;
+    margin        : 2rem;
+}
+
+form input {
+    border-color : #3d003a;
+    border-style : solid;
+    padding      : 0.5rem;
+    border-width : 0.25rem;
+    border-radius: 10px;
+    font-size    : 1rem;
+    margin-bottom: 1.5rem;
+    margin-top   : 0.5rem;
+}
+
+label {
+    font-size: 1.25rem;
+}
+
+.info-popup {
+    display: none;
+}
+
+.info-popup.show {
+    z-index         : 1;
+    position        : fixed;
+    top             : 0;
+    bottom          : 0;
+    left            : 0;
+    right           : 0;
+    background-color: rgba(0, 0, 0, 0.35);
+    display         : block;
+}
+
+.popup-window {
+    background-color: rgb(251, 220, 255);
+    border-color    : #3d003a;
+    border-style    : solid;
+    position        : relative;
+    margin          : 2rem auto;
+    width           : 30%;
+    padding         : 0.5rem;
+    border-width    : 0.25rem;
+    border-radius   : 10px;
+}
+
+@media screen and (max-width: 1500px) {
+
+    .popup-window {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .statistics {
+        flex-direction: column;
+    }
+
+    .statistics>* {
+        margin-top: 0.25rem;
+    }
+
+    .popup-window {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .popup-window {
+        width: 90%;
+    }
+}
+
+.exit-btn {
+    font-size: 1.5rem;
+}

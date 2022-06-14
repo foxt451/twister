@@ -11,13 +11,15 @@ const Lose = ({
   return (
     <div className="lose">
       <h2>Keep it up!</h2>
-      Your score: {score}
-      <button type="button" onClick={() => dispatchGameState("playing")}>
-        Try again
-      </button>
-      <button type="button" onClick={() => dispatchGameState("menu")}>
-        To menu
-      </button>
+      <div className="statistics">
+        <article className="score">Your score: {score}</article>
+        <button type="button" onClick={() => dispatchGameState("playing")}>
+          Try again
+        </button>
+        <button type="button" onClick={() => dispatchGameState("menu")}>
+          To menu
+        </button>
+      </div>
     </div>
   );
 };

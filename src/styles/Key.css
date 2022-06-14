@@ -1,0 +1,9 @@
+:root {
+    --key-height: 5rem;
+}
+
+.keyboard-icon {
+    width: var(--key-height);
+    height: var(--key-height);
+    margin: 1rem 0.25rem;
+}
